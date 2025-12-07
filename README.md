@@ -8,6 +8,8 @@ Deep learning, particularly convolutional neural networks (CNNs), achieves super
 
 ## Dataset:
 
+https://drive.google.com/drive/folders/1Kp6_qaxW6p0Ft18PX5pNzGfdNVIWI46v?usp=sharing
 
 ## Pre-trained model:
 
+https://drive.google.com/drive/folders/1BEmUrNohnmWht0Wg0gG4HAvxhCZh4nhm?usp=sharing
